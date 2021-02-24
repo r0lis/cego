@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDTMhG57A1RmP8I6BJ64hV5EtrHtJlt20A3YY6276F7Jotg8dOfwQPWE8Oo4xg/5FEUF8JlCLjgpIsY30Rd5hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rolenec Lukáš\\source\\repos\\cego\\cego\\cego.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rolenec Lukáš\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rolenec Lukáš\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rolenec Lukáš\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.7\\swashbuckle.aspnetcore.6.0.7.nupkg.sha512",
+    "C:\\Users\\Rolenec Lukáš\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.7\\swashbuckle.aspnetcore.swagger.6.0.7.nupkg.sha512",
+    "C:\\Users\\Rolenec Lukáš\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.7\\swashbuckle.aspnetcore.swaggergen.6.0.7.nupkg.sha512",
+    "C:\\Users\\Rolenec Lukáš\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.7\\swashbuckle.aspnetcore.swaggerui.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
